@@ -1,0 +1,1 @@
+!function(){function e(){var e=document.getElementById("signup-recaptcha");e&&(e.innerHTML="",grecaptcha.render(e,{sitekey:"6LfO8hgTAAAAAO5PhG2euiXgEGi6MFtWFWZC1ku3"}))}window.captchaOnload=e}();
