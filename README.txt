@@ -1,0 +1,1 @@
+The system consist of 3 modules: OFIRCS- an online FIR lodging system for public, CISPS- a criminal information system for police departments to manage FIR and Criminal records, SP- an Administration system for Police Department.
